@@ -1,8 +1,8 @@
 {
     "desired_caps": {
         "platformName": "Android",
-        "deviceName": "<your device name>",
-        "udid": "<your device udid>",
+        "deviceName": "emulator-5554",
+        "udid": "emulator-5554",
         "noReset": "false",
         "automationName": "UiAutomator2",
         "appPackage": "com.appsflyer.androidsampleapp",
